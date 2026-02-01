@@ -9,7 +9,7 @@ The design follows a hybrid approach that combines machine learning with rule-ba
 
 The pipeline consists of three main components:
 
-### edical NLP Summarization
+### Medical NLP Summarization
 
 Extracts structured medical information such as symptoms, diagnosis, treatment, current status, and prognosis.
 
