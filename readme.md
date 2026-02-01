@@ -47,21 +47,35 @@ JSON for structured outputs
 .
 ├── data/
 │   └── conversation.txt
+
 ├── outputs/
 │   ├── medical_summary.json
+
 │   ├── sentiment_intent.json
+
 │   └── soap_note.json
+
 ├── src/
 │   ├── text_loader.py
+
 │   ├── transcript_parser.py
+
 │   ├── nlp_summarization.py
+
 │   ├── sentiment_intent.py
+
 │   ├── sentence_utils.py
+
 │   ├── soap_classifier.py
+
 │   ├── soap_generator.py
+
 │   └── soap_builders.py
+
 ├── requirements.txt
+
 ├── main.py
+
 └── README.md
 
 ## Setup and Execution
