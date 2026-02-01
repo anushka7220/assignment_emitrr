@@ -1,0 +1,6 @@
+spacy
+scispacy
+transformers
+torch
+pandas
+numpy

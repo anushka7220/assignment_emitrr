@@ -1,0 +1,115 @@
+text,label
+"I have been feeling severe neck pain for the last two weeks",Subjective
+"My back hurts especially in the morning",Subjective
+"I was involved in a car accident four weeks ago",Subjective
+"I feel dizzy and tired most of the day",Subjective
+"I have occasional headaches since last month",Subjective
+"My pain increases when I move my neck",Subjective
+"I have difficulty sleeping due to back pain",Subjective
+"I feel stiffness in my shoulders",Subjective
+"I experience sharp pain while bending",Subjective
+"I feel much better after physiotherapy sessions",Subjective
+"I have mild pain now compared to earlier",Subjective
+"I feel pain radiating to my left arm",Subjective
+"I feel discomfort when sitting for long periods",Subjective
+"I noticed swelling in my lower back",Subjective
+"I feel pain after lifting heavy objects",Subjective
+"I feel occasional numbness in my fingers",Subjective
+"I am experiencing lower back pain daily",Subjective
+"I feel pain when turning my head",Subjective
+"I have pain but no fever",Subjective
+"I feel weakness in my neck muscles",Subjective
+
+"Patient appears comfortable and in no acute distress",Objective
+"Vital signs are stable",Objective
+"Patient has normal gait",Objective
+"Full range of motion observed in cervical spine",Objective
+"No visible swelling or bruising noted",Objective
+"Tenderness noted in the lumbar region",Objective
+"Muscle strength is normal in all extremities",Objective
+"Patient is alert and oriented",Objective
+"No neurological deficits observed",Objective
+"Posture appears normal",Objective
+"Blood pressure is within normal limits",Objective
+"Heart rate is regular",Objective
+"Respiratory rate is normal",Objective
+"No spinal deformity observed",Objective
+"Patient walks without assistance",Objective
+"Reflexes are intact",Objective
+"Pain noted on palpation of lower back",Objective
+"No signs of infection present",Objective
+"Skin is warm and dry",Objective
+"Range of motion slightly reduced in lumbar spine",Objective
+
+"Symptoms are consistent with muscle strain",Assessment
+"Findings suggest cervical sprain",Assessment
+"Likely soft tissue injury due to trauma",Assessment
+"Condition appears to be improving",Assessment
+"Presentation consistent with whiplash injury",Assessment
+"No evidence of serious neurological injury",Assessment
+"Pain likely due to overuse",Assessment
+"Chronic lower back pain suspected",Assessment
+"Mild musculoskeletal injury diagnosed",Assessment
+"Assessment indicates resolving back strain",Assessment
+"Neck pain likely secondary to accident trauma",Assessment
+"Patient condition is stable",Assessment
+"No red flag symptoms identified",Assessment
+"Assessment suggests mild inflammation",Assessment
+"Findings consistent with lumbar strain",Assessment
+"Pain severity is mild",Assessment
+"Injury appears non-serious",Assessment
+"Musculoskeletal pain without complications",Assessment
+"Recovery is progressing well",Assessment
+"Condition is improving with therapy",Assessment
+
+"Continue physiotherapy exercises",Plan
+"Prescribe NSAIDs for pain management",Plan
+"Advise patient to rest and avoid heavy lifting",Plan
+"Recommend follow-up in four weeks",Plan
+"Continue home exercise program",Plan
+"Apply heat therapy as needed",Plan
+"Refer patient to physiotherapy",Plan
+"Schedule follow-up appointment if pain persists",Plan
+"Advise patient to return if symptoms worsen",Plan
+"Encourage gentle stretching exercises",Plan
+"Continue current treatment plan",Plan
+"Monitor symptoms over the next few weeks",Plan
+"Recommend ergonomic posture correction",Plan
+"Advise use of pain relievers as required",Plan
+"Plan for reassessment in one month",Plan
+"Educate patient on injury prevention",Plan
+"Gradually increase physical activity",Plan
+"Discontinue therapy if symptoms resolve",Plan
+"Provide reassurance and guidance",Plan
+"Follow up as needed",Plan
+
+"Good morning",Other
+"Good morning, doctor",Other
+"How are you feeling today?",Other
+"Can you walk me through what happened?",Other
+"That sounds painful",Other
+"Were you wearing your seatbelt?",Other
+"I understand",Other
+"That makes sense",Other
+"That’s good to hear",Other
+"Thank you, doctor",Other
+"Okay",Other
+"Alright",Other
+"Let me ask you a few more questions",Other
+"Can you tell me more about that?",Other
+"Did you receive any treatment?",Other
+"Have you noticed any other symptoms?",Other
+"Any emotional or psychological effects?",Other
+"How has this affected your daily activities?",Other
+"Let’s do a physical examination",Other
+"Everything looks good",Other
+"Do you have any questions for me?",Other
+"Alright, we’ll proceed",Other
+"Thanks for sharing that",Other
+"I appreciate your patience",Other
+"Please let me know if anything changes",Other
+"Okay, thank you",Other
+"That’s reassuring",Other
+"Let’s move on",Other
+"I see",Other
+"Understood",Other
